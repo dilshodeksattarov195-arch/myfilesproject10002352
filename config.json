@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userrelete",
+        "uuid": 20770512,
+        "checksum": "h1sor1"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
